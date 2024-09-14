@@ -1,7 +1,6 @@
 # Program-CPP_TLS24
 
-Nama: Dwinata Sangradit Darmawan
-
+Nama: Dwinata Sangradit Darmawan <br/>
 Kelompok: Riemann
 
 Cara pakai program:
